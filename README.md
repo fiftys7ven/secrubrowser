@@ -14,15 +14,18 @@ Secru Browser is a secure and private web browser designed to prioritize user pr
 
 - **Fast and Lightweight:** Enjoy a fast and efficient browsing experience with Secru Browser, designed to be lightweight and responsive.
 
+- **Privacy Rederict:** Don't be tracked and be redericted from popular tracking websites to the non-tracking ones.
+
 ## Installation
 
 ### Prerequisites
 
-- Make sure you have [Node.js](https://nodejs.org/) installed.
+- Make sure you have [Android 5.1+](https://android.com/) installed.
+- For computers, use [BlueStacks](https://bluestacks.com/) or other android emulator.
 
-### Clone the Repository
+### Download
 
-```bash
-git clone https://github.com/your-username/secru-browser.git
-cd secru-browser
-```
+1. Download .apk file from [releases](https://github.com/fiftys7ven/secrubrowser/releases/).
+2. Open it on your device.
+3. Press 'Install' and 'Open' or 'Done'.
+4. Your browser should be installed on your device.
