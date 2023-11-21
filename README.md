@@ -24,7 +24,7 @@ Secru Browser is a secure and private web browser designed to prioritize user pr
 ### Download
 
 1. Download .apk file from [releases](https://github.com/fiftys7ven/secrubrowser/releases/) or scan the QR code below.
-![](https://raw.githubusercontent.com/fiftys7ven/secrubrowser/main/downloadqrcode.svg)
+<img src="https://raw.githubusercontent.com/fiftys7ven/secrubrowser/main/downloadqrcode.svg" width="200" height="200">
 2. Open it on your device.
 3. Press 'Install' and 'Open' or 'Done'.
 4. Your browser should be installed on your device.
