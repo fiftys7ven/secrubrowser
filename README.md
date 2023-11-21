@@ -28,4 +28,4 @@ Secru Browser is a secure and private web browser designed to prioritize user pr
 3. Press 'Install' and 'Open' or 'Done'.
 4. Your browser should be installed on your device.
 
-<img src="https://raw.githubusercontent.com/fiftys7ven/secrubrowser/main/downloadqrcode.svg" width="200" height="200">
+<img src="https://raw.githubusercontent.com/fiftys7ven/secrubrowser/main/qr-code.png" width="200" height="200">
