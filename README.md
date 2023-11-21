@@ -1,7 +1,5 @@
 # Secru Browser
 
-![Secru Browser Logo](url_to_logo.png)
-
 Secru Browser is a secure and private web browser designed to prioritize user privacy and security. It aims to provide a seamless browsing experience while protecting your sensitive information.
 
 ## Features
